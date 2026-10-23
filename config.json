@@ -3,8 +3,8 @@
   "message": "",
   "notice": "",
   "update": {
-    "versionCode": 2,
-    "versionName": "1.1",
+    "versionCode": 1,
+    "versionName": "1.0",
     "url": "https://github.com/b3reket/bankai-config/releases/latest",
     "notes": "Faster downloads",
     "force": false
