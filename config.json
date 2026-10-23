@@ -1,6 +1,7 @@
 {
   "status": "ok",
   "message": "",
+  "notice": "",
   "update": {
     "versionCode": 1,
     "versionName": "1.0",
