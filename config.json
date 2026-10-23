@@ -1,6 +1,6 @@
 {
-  "status": "maintenance",
-  "message": "Back in 1 hour",
+  "status": "ok",
+  "message": "",
   "notice": "",
   "update": {
     "versionCode": 2,
