@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "message": "",
+  "update": {
+    "versionCode": 1,
+    "versionName": "1.0",
+    "url": "https://github.com/b3reket/bankai-config/releases/latest",
+    "notes": "",
+    "force": false
+  },
+  "provider": {
+    "id": "anikoto",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/b3reket/bankai-config/main/providers/anikoto.js",
+    "sha256": ""
+  }
+}
