@@ -11,8 +11,8 @@
   },
   "provider": {
     "id": "anikoto",
-    "version": 1,
+    "version": 2,
     "url": "https://raw.githubusercontent.com/b3reket/bankai-config/main/providers/anikoto.js",
-    "sha256": ""
+    "sha256": "6f8b267cae5883f5f4947d554b5e06f02043e63e491a9c34999bc5a88394f503"
   }
 }
